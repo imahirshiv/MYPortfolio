@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Crimson+Text:wght@600&family=Mulish:wght@200&family=Rubik:ital,wght@0,300;1,300&family=Sansita&family=Smokum&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+}
+.sidebar{
+    background-color: red;
+    width: 20vw;
+    font-family: sans-serif;
+}
+.sidebar nav{
+    padding: 72px;
+}
+.sidebar nav li{
+    list-style-type: none;
+    fon
+}
+.main{
+    background-color: yellow;
+    width: 80vw;
+}
+.container{
+    display: flex;
+}
